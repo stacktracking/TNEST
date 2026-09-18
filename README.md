@@ -1,6 +1,8 @@
 # 🌐 T.Nestia
 
 **T.Nestia** is a full-stack web platform designed to unify **students** and **teachers** into one collaborative academic space. The system offers centralized access to class resources, announcements, schedules, events, and more.
+## 🌐 Live Demo
+You can access the live application here: [T.Nestia Live](https://tnest.onrender.com)
 
 > Built using **Node.js**, **Express**, **MongoDB**, **Tailwind CSS**, and **EJS** templating.
 
